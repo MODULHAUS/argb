@@ -1,0 +1,22 @@
+{
+  "name": "argb",
+  "version": "0.0.0",
+  "description": "browserify transform for putting all your args in your bundle's process.argv",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@githib.com:modulhaus/argb.git"
+  },
+  "keywords": [
+    "browserify",
+    "transform",
+    "argv",
+    "minimist",
+    "process.argv"
+  ],
+  "author": "johnny lincoln",
+  "license": "ISC"
+}
