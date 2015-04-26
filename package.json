@@ -1,6 +1,6 @@
 {
   "name": "argb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "browserify transform for putting all your args in your bundle's process.argv",
   "main": "transform.js",
   "scripts": {
